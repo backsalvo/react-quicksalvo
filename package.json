@@ -1,7 +1,7 @@
 {
 	"name": "react-quicksalvo",
 	"type": "module",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/PeppeTll/React-automated-component.git"
+		"url": "git+https://github.com/backsalvo/react-quicksalvo"
 	},
 	"keywords": [
 		"react"
